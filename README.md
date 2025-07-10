@@ -33,7 +33,7 @@ python main.py
 
 ## 📷 Screenshot
 
-![Screenshot 2025-07-09 190256](https://github.com/user-attachments/assets/189669dd-d1c5-460d-b4e9-591884c95c40)
+![Screenshot 2025-07-09 211612](https://github.com/user-attachments/assets/229e3f3e-3f22-4cd9-aa16-26bd54e00155)
 
 ---
 
