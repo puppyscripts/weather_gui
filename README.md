@@ -26,7 +26,7 @@ pip install requests
 
 ### Run the app:
 ```
-python main.py
+python gui.py
 ```
 
 ---
